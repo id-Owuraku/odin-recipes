@@ -6,3 +6,16 @@ h1,h2,h3 {
     color: rgb(233, 111, 10);
 }
 
+img {
+    height: auto;
+    width: 500px;
+    margin: auto;
+} 
+
+div {
+    display: block;
+    text-align: justify;
+    margin: auto;
+    width: 25%;
+    height: auto;
+}
